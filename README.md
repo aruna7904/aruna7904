@@ -15,8 +15,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/aruna-t-7226172a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aruna-t-7226172a5" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kit27csbs10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kit27csbs10" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/aruna777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/aruna777" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/aruna777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aruna777/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/aruna777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aruna777" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aruna777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aruna777" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aruna7904&show_icons=true&locale=en" alt="aruna7904" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aruna7904&" alt="aruna7904" /></p>
-
-
