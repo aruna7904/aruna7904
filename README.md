@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm ARUNA T</h1>
+<h3 align="center">"Exploring the World of Programming 🚀 | Passionate about Web Development and Problem Solving 💻"</h3>
+
+
 # 💫 About Me:
 🌱 I’m currently learning react JS,Python<br><br>👨‍💻 All of my projects are available at https://github.com/aruna7904<br><br>📫 How to reach me arunagokul790@gmail.com<br><br>⚡ Fun fact "I believe coffee and code are a perfect combo ☕💻"
 
