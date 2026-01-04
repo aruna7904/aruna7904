@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode"/>
   <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/XAMPP-orange?style=for-the-badge&logo=apache"/>
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
 </p>
 
