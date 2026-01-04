@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 2nd Year **CSBS Engineering Student**
+- 🎓 3rd Year **CSBS Engineering Student**
 - 🌱 Currently learning **React.js & Python**
 - 💡 Interested in **Web Development, DSA & Problem Solving**
 - 🧠 Practicing problems on **LeetCode, CodeChef & Codeforces**
@@ -59,7 +59,6 @@
 - ✅ Web Development Internship Certificate  
 - ✅ Python Programming Course  
 - ✅ C & Java Fundamentals  
-- ✅ Problem Solving (DSA Basics)
 
 ---
 
@@ -85,10 +84,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aruna7904&show_icons=true&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aruna7904&theme=radical" />
