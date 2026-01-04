@@ -54,17 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aruna7904&show_icons=true&theme=radical" alt="github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aruna7904&theme=radical" alt="streak stats"/>
-</p>
-
----
 
 ## 🚀 Quote I Believe In
 
