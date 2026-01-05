@@ -82,14 +82,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aruna7904&theme=radical" />
-</p>
-
----
-
 ## 🚀 Quote I Believe In
 
 > *“Consistency beats talent when talent doesn’t work hard.”*
