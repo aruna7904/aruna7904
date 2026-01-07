@@ -99,12 +99,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/aruna7904/aruna7904/blob/output/github-contribution-grid-snake.svg)
-
-![Snake dark animation](https://github.com/aruna7904/aruna7904/blob/output/github-contribution-grid-snake-dark.svg)
-
 ## 🚀 Quote I Believe In
 
 > *“Consistency beats talent when talent doesn’t work hard.”*
