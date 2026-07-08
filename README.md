@@ -9,8 +9,8 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 3rd Year **CSBS Engineering Student**
-- 🌱 Currently learning **React.js & Python**
+- 🎓 Final Year **CSBS Engineering Student**
+- 🌱 Currently learning **Agentic AI**
 - 💡 Interested in **Web Development, DSA & Problem Solving**
 - 🧠 Practicing problems on **LeetCode, CodeChef & Codeforces**
 - ☕ Fun fact: *Coffee + Code = Perfect Combo*
@@ -48,14 +48,14 @@
 
 | Platform       | Problems Solved | Max Rating |
 |----------------|----------------|------------|
-| **LeetCode**   | 50+            |    1460    |
-| **CodeChef**   | 200+           |    1132    |
-| **Codeforce** | 20+         | —          |
+| **LeetCode**   | 150+            |    1460    |
+| **CodeChef**   | 200+           |    1431    |
+| **Codeforce** | 100+         | —          |
 ### 🏆 Achievements
 
- ✅ Solved **250+ problems** across platforms  
+ ✅ Solved **350+ problems** across platforms  
  🔥 Maintained **15-day streak** in problem solving  
- 🏅 Participated in **80+ coding contests** on CodeChef  
+ 🏅 Participated in **100+ coding contests** on CodeChef  
 
 </div>
 
